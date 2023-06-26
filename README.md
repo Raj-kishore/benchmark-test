@@ -1,4 +1,4 @@
-# benchmark-test
+# benchmark test
 
 **Testing multi threading performance - Java vs NodeJS**
 
