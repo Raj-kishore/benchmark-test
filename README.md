@@ -2,4 +2,4 @@
 
 **Testing multi threading performance - Java vs NodeJS**
 
-![comparision](test.png "Java vs Node JS")
+![comparision](screenshot.png "Java vs Node JS")
