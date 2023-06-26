@@ -2,7 +2,7 @@ const { Worker } = require('worker_threads');
 
 function runMultiThreadBenchmark() {
     const numberOfThreads = 10;
-    const numberOfIterations = 5;
+    const numberOfIterations = 50;
 
     const startTime = Date.now();
     const workerPromises = [];
